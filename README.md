@@ -45,8 +45,3 @@ Customize the service and timer files if needed, then enable and start the timer
 systemctl enable dns-upstream.timer --now
 systemctl status dns-upstream.timer
 ```
-
-## Links
-
-- [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy)
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
